@@ -23,6 +23,7 @@ function setup() {
 
 function draw() {  
 background(0)
+	text("hai",100,100)
   drawSprites();
 textSize(20)
 text("foods left:"+food,300,200)
